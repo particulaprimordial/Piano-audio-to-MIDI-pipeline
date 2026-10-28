@@ -1,0 +1,2 @@
+transcription_method,note_count,instrument_count,duration_seconds,mean_note_duration_seconds,median_note_duration_seconds,estimated_tempo_bpm,top_key_candidate,key_estimate_is_heuristic,meter_assumption_for_later_alignment
+,54,1,32.5,2.539,2.068,63.27,C major,True,4/4; not automatically verified

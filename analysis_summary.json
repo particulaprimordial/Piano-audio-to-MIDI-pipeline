@@ -1,0 +1,12 @@
+{
+  "transcription_method": null,
+  "note_count": 54,
+  "instrument_count": 1,
+  "duration_seconds": 32.5,
+  "mean_note_duration_seconds": 2.539,
+  "median_note_duration_seconds": 2.068,
+  "estimated_tempo_bpm": 63.27,
+  "top_key_candidate": "C major",
+  "key_estimate_is_heuristic": true,
+  "meter_assumption_for_later_alignment": "4/4; not automatically verified"
+}

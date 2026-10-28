@@ -1,0 +1,6 @@
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+streamlit>=1.36
+# Colab pipeline only (not needed for the dashboard):
+# librosa noisereduce soundfile pretty_midi piano-transcription-inference torch

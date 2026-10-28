@@ -1,0 +1,7 @@
+*.aac
+*.m4a
+*.wav
+*.mp3
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
